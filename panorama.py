@@ -54,4 +54,4 @@ def stitch(inp_path, imgmark, N=4, savepath=''):
         imgs[i] = dest
 
     cv2.imwrite("task2_result.png", trimBlank(dest))
-    return ""
+    return trimBlank(dest)
