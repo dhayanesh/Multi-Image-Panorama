@@ -1,2 +1,2 @@
 # Multi-Image-Panorama
-Python code for creating Panorama of multiple images project!
+Python code for creating Panorama of multiple images!
